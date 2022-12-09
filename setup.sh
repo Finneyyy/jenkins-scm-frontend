@@ -4,6 +4,7 @@
 # configure nginx
 sudo apt update
 sudo apt install -y nginx
+sudo systemctl start nginx
 sudo cp nginx.conf /etc/nginx/nginx.conf
 
 # copy files to installation folder
