@@ -1,4 +1,4 @@
-#!/bin/bash
+#! /usr/bin/env bash
 # install the frontend website
 
 # configure nginx
