@@ -4,6 +4,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo "Will add to TODO"
+                echo "Will add to TODO"
                 //
             }
         }
